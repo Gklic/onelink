@@ -1,0 +1,59 @@
+.denglubiaodan{
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: absolute;
+	margin: auto;
+	width: 450px;
+	height: 400px;
+	backdrop-filter: blur(100px);
+	background:linear-gradient(315deg, #FFFFCC 2%, #CCFFFF 36%);
+	border-radius: 20px;
+	box-shadow: 0px 5px 15px rgba(20, 20, 20, 0.8);
+	display: flex;
+}
+.neikuan{
+	width: 350px;
+	height: 300px;
+	margin: auto;
+	text-align: center;
+	border-radius: 20px;
+}
+.shurukuan{
+	width: 300px;
+	height: 50px;
+	border-radius: 50px;
+	border: none;
+	text-align: center;
+	margin-top: 25px;
+}
+.anno{
+	margin-top: 20px;
+	width: 80px;
+	height: 40px;
+	border-radius: 30px;
+	border: none;
+}
+.mimakang{
+	margin: auto;
+	width: 300px;
+	text-align: center;
+}
+.jizhu{
+	font-size: 14px;
+	float: left;
+}
+.wanji{
+	font-size: 14px;
+	float: right;
+}
+.zhuce{
+	font-size: 14px;
+	text-align: center;
+	margin-top: 20px;
+}
+.zhanghao{
+	width: 350px;
+	height: 240px;
+}
